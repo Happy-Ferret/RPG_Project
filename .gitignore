@@ -1,0 +1,12 @@
+Data/
+Audio/
+Graphics/
+Movies/
+System/
+Makefile
+Makefile.pack
+Makefile.unpack
+pack.rb
+unpack.rb
+*.rvproj2
+*.exe
