@@ -37,6 +37,7 @@ battle_end_me: !ruby/object:RPG::ME
   volume: 100
 party_members:
 - 1
+- 2
 start_x: 8
 ship: !ruby/object:RPG::System::Vehicle
   start_y: 0
@@ -174,7 +175,7 @@ variables:
 - ''
 - ''
 battle_bgm: !ruby/object:RPG::BGM {name: Battle1, volume: 100, pitch: 100}
-version_id: 80566527
+version_id: 73710953
 start_map_id: 1
 battler_name: Assassin
 magic_number: 77696160
