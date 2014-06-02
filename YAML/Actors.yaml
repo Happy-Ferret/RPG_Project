@@ -17,9 +17,9 @@
   - 0
   - 1
   - 0
-  nickname: Silver Reaper
   description: "A small boy from Gaillimh who got lost in the streets \r\nof his hometown on the night of Samhain."
   max_level: 99
+  nickname: ''
 - !ruby/object:RPG::Actor
   name: Nico
   face_index: 1
@@ -37,6 +37,5 @@
   - 0
   - 0
   - 0
-  nickname: Thunder Fist
   description: "A white cat of impeccable beauty, \r\nNico is Jared's faithful friend and fellow adventurer."
   max_level: 99
